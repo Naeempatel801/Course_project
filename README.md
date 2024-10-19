@@ -12,6 +12,7 @@ Feel free to explore, suggest improvements, or adapt this for your own projects!
 
 
 **Article 2:** 🛢️ Drilling Data Analysis with Power BI Dashboard 🛠️  
+
 🚀 Project Overview 🚀
 Welcome to the Drilling Data Analysis project! This project provides a detailed analysis of drilling operations using Power BI to visualize key performance indicators (KPIs), operational metrics, and cost management insights. The dashboard aims to assist decision-makers in optimizing drilling efficiency, reducing downtime, and controlling costs. 📊
 📄 Read the Full Article
