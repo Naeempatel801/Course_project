@@ -1,6 +1,14 @@
 # Course_project
-**Article 1:** **In this project, I designed a database for Costco,** focusing on key business operations like managing members, products, orders, suppliers, employees, and transactions. The database includes well-organized tables such as Members, Orders, Products, Suppliers, Employees, and Transactions, with defined relationships like one-to-many (e.g., one member can place many orders) and many-to-many (e.g., orders and products through a junction table). The design enables Costco to track and manage various business activities, like monitoring inventory levels, processing orders, and managing supplier relationships, making the system scalable for future growth. 
-(Learn More: https://github.com/Naeempatel801/Course_project/blob/main/Article%20on%20Database%20Design%20for%20Costco%20Corporation.pdf)
+**Article 1:** 🛒 **Costco Database Design Project** 🛒
+Welcome to the Costco Database Design project! This repository contains an in-depth case study focused on designing a scalable and efficient database for Costco's operations in Calgary. The aim is to streamline inventory management, membership tracking, and transaction processing, ensuring seamless business operations. 🚀
+
+📄 What's Inside:
+Entity-Relationship Diagram (ERD) showing the relationships between Costco’s key entities.
+SQL Queries for creating tables, joining data, and managing key business functions.
+A detailed analysis of how the proposed database structure enhances Costco’s efficiency and growth potential.
+🔗 Read the full article
+Feel free to explore, suggest improvements, or adapt this for your own projects! 💡 
+[Read the Project Article (.pdf)](https://github.com/Naeempatel801/Course_project/blob/main/Article%20on%20Database%20Design%20for%20Costco%20Corporation.pdf)
 
 
 **Article 2:** 🛢️ Drilling Data Analysis with Power BI Dashboard 🛠️  
