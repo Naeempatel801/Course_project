@@ -1,5 +1,6 @@
 # Course_project
 **Article 1:** 🛒 **Costco Database Design Project** 🛒
+
 Welcome to the Costco Database Design project! This repository contains an in-depth case study focused on designing a scalable and efficient database for Costco's operations in Calgary. The aim is to streamline inventory management, membership tracking, and transaction processing, ensuring seamless business operations. 🚀
 📄 What's Inside:
 Entity-Relationship Diagram (ERD) showing the relationships between Costco’s key entities.
