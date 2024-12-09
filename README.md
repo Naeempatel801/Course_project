@@ -1,5 +1,5 @@
 # Course_project
-**Article 1:** 🛒 **Costco Database Design Project** 🛒
+# **Article 1:** 🛒 **Costco Database Design Project** 🛒
 
 Welcome to the Costco Database Design project! This repository contains an in-depth case study focused on designing a scalable and efficient database for Costco's operations in Calgary. The aim is to streamline inventory management, membership tracking, and transaction processing, ensuring seamless business operations. 🚀
 📄 What's Inside:
@@ -11,7 +11,7 @@ Feel free to explore, suggest improvements, or adapt this for your own projects!
 [Read the Project Article (.pdf)](https://github.com/Naeempatel801/Course_project/blob/main/Article%20on%20Database%20Design%20for%20Costco%20Corporation.pdf)
 
 
-**Article 2:** 🛢️ Drilling Data Analysis with Power BI Dashboard 🛠️  
+# **Article 2:** 🛢️ Drilling Data Analysis with Power BI Dashboard 🛠️  
 
 🚀 Project Overview 🚀
 Welcome to the Drilling Data Analysis project! This project provides a detailed analysis of drilling operations using Power BI to visualize key performance indicators (KPIs), operational metrics, and cost management insights. The dashboard aims to assist decision-makers in optimizing drilling efficiency, reducing downtime, and controlling costs. 📊
