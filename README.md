@@ -29,5 +29,5 @@ Welcome to the **Eco Cleaning Supply Cloud Architecture Project**! This reposito
 - Visual diagrams and detailed pipeline explanations. 🎨  
 - Efficient strategies to optimize data processing and storage. ⚙️  
 
-🔗 [Download the Article PDF](https://github.com/Naeempatel801/Course_project/blob/1f0ecf0dbd009bfbf4c9de7a7495c104662a5772/Article%20On%20Eco%20Cleaning%20Supply%20Cloud%20Architecture%20Project.pdf)
+🔗 [Download the Article PDF](https://raw.githubusercontent.com/Naeempatel801/Course_project/1f0ecf0dbd009bfbf4c9de7a7495c104662a5772/Article%20On%20Eco%20Cleaning%20Supply%20Cloud%20Architecture%20Project.pdf)
 🌐 [Read the Project Article (.pdf)](https://github.com/Naeempatel801/Course_project/blob/main/Article%20On%20Eco%20Cleaning%20Supply%20Cloud%20Architecture%20Project.pdf)  
