@@ -30,4 +30,4 @@ Welcome to the **Eco Cleaning Supply Cloud Architecture Project**! This reposito
 - Efficient strategies to optimize data processing and storage. ⚙️  
 
 🔗 [Download the Article PDF](Eco_Cleaning_Supply_Cloud_Architecture.pdf)
-🌐 [Read the Project Article (.pdf)](https://your-portfolio-link.com)  
+🌐 [Read the Project Article (.pdf)](https://github.com/Naeempatel801/Course_project/blob/main/Article%20On%20Eco%20Cleaning%20Supply%20Cloud%20Architecture%20Project.pdf)  
