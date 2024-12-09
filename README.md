@@ -20,7 +20,7 @@ Explore how real-time data-driven insights can optimize efficiency, reduce downt
 [Read the Project Article (.pdf)](https://github.com/Naeempatel801/Course_project/blob/main/Article%20on%20Drilling%20Data%20Analysis%20Using%20Power%20BI%20Dashboard.pdf)
 
 
-**Article 3:** # 🌟 Eco Cleaning Supply Cloud Architecture 🌿  
+# **Article 3:**  🌟 Eco Cleaning Supply Cloud Architecture 🌿  
 
 Welcome to the **Eco Cleaning Supply Cloud Architecture Project**! This repository showcases a scalable, secure, and sustainable cloud solution designed using **Azure Synapse Analytics**, **Delta Lake**, and **Power BI**. 🚀  
 
