@@ -18,3 +18,16 @@ Welcome to the Drilling Data Analysis project! This project provides a detailed 
 📄 Read the Full Article
 Explore how real-time data-driven insights can optimize efficiency, reduce downtime, and improve decision-making.📄
 [Read the Project Article (.pdf)](https://github.com/Naeempatel801/Course_project/blob/main/Article%20on%20Drilling%20Data%20Analysis%20Using%20Power%20BI%20Dashboard.pdf)
+
+
+# 🌟 Eco Cleaning Supply Cloud Architecture 🌿  
+
+Welcome to the **Eco Cleaning Supply Cloud Architecture Project**! This repository showcases a scalable, secure, and sustainable cloud solution designed using **Azure Synapse Analytics**, **Delta Lake**, and **Power BI**. 🚀  
+
+📊 **Key Highlights**:  
+- Comprehensive cloud architecture to streamline workflows. ☁️  
+- Visual diagrams and detailed pipeline explanations. 🎨  
+- Efficient strategies to optimize data processing and storage. ⚙️  
+
+🔗 [Download the Article PDF](Eco_Cleaning_Supply_Cloud_Architecture.pdf)  
+🌐 [Explore the Portfolio](https://your-portfolio-link.com)  
